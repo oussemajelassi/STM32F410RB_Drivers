@@ -1,0 +1,7 @@
+"./Src/Timer.o"
+"./Src/main.o"
+"./Src/output_compare.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/uart.o"
+"./Startup/startup_stm32f410rbtx.o"

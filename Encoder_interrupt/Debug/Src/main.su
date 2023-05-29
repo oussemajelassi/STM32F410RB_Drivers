@@ -1,0 +1,3 @@
+main.c:15:13:TIM1_CALLBACK	4	static
+main.c:19:22:main	8	static
+main.c:30:23:TIM1_IRQHandler	8	static

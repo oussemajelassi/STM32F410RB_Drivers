@@ -1,0 +1,3 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+uart_interrupt.c:12:12:UART_RX_TX_interrupt_init	8	static
+uart_interrupt.c:53:13:set_baudrate_usart2	24	static

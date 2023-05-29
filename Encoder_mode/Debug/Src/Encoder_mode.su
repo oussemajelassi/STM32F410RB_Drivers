@@ -1,0 +1,2 @@
+Encoder_mode.c:5:10:read_encoder	4	static
+Encoder_mode.c:12:6:Encoder_mode_TIM1	4	static

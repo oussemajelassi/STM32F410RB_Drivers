@@ -1,0 +1,3 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+encoder_interrupt.c:4:10:read_encoder	4	static
+encoder_interrupt.c:10:6:Encoder_mode_TIM1_interrupt	8	static

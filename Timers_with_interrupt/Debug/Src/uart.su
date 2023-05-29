@@ -1,0 +1,4 @@
+uart.c:18:13:__io_putchar	16	static
+uart.c:24:16:set_baudrate_usart2	24	static
+uart.c:31:9:UART_TX_init	8	static
+uart.c:59:9:senddata	16	static

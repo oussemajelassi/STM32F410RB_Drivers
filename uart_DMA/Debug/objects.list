@@ -1,0 +1,7 @@
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/uart.o"
+"./Src/uart_DMA.o"
+"./Src/uart_interrupt.o"
+"./Startup/startup_stm32f410rbtx.o"
